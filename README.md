@@ -1,40 +1,35 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=🌿%20Plant%20Disease%20Detection%20using%20CNN&fontSize=35&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=🌿%20AI%20Plant%20Disease%20Detection%20using%20CNN&fontSize=35&fontColor=ffffff)
 
 <img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" alt="javascript logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="65" alt="anaconda logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="65" alt="jupyter logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65" alt="html5 logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="65" alt="css logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="65" alt="chrome logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65" alt="git logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="65" alt="github logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="65" alt="kaggle logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="65" alt="linkedin logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="65" alt="python logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="65" alt="vscode logo"  />
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=snehal395u.AI-Plant-Disease-Detection-System"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=snehal395u.snehal395u&"  />
 </div>
-
----
-
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-DeepLearning-red?logo=keras)
-![OpenCV](https://img.shields.io/badge/OpenCV-ImageProcessing-green?logo=opencv)
-![Accuracy](https://img.shields.io/badge/Test%20Accuracy-92%25-brightgreen)
-![F1 Score](https://img.shields.io/badge/F1%20Score-0.91-yellow)
-![License](https://img.shields.io/badge/License-MIT-blue)
-
----
 
 # 🌿 AI Plant Disease Detection System
 
@@ -44,14 +39,22 @@ This project helps farmers, researchers, and agricultural experts detect crop di
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-DeepLearning-red?logo=keras)
+![OpenCV](https://img.shields.io/badge/OpenCV-ImageProcessing-green?logo=opencv)
+![Accuracy](https://img.shields.io/badge/Test%20Accuracy-88.7%25-brightgreen)
+![F1 Score](https://img.shields.io/badge/F1%20Score-0.88-yellow)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
 ## 🎥 Project Demo
 
 ![Project Demo](demo1.gif)
 
-👉 Click here to watch full screen demo  
-https://screenrec.com/share/YOUR_LINK
+## 🎥 Demo Preview
 
----
+👉 [Click here to watch full screen demo](https://screenrec.com/share/2vZYSJiayT)
+
 
 ## 📊 Model Performance
 
@@ -196,3 +199,4 @@ The best model detects plant diseases with:
 ```bash
 git clone https://github.com/YOUR_USERNAME/AI-Plant-Disease-Detection-System.git
 cd AI-Plant-Disease-Detection-System
+
