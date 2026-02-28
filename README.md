@@ -177,8 +177,8 @@ Best validation accuracy achieved at epoch 21.
 
 ## 📉 Training Graphs
 
-![Loss plot](Loss.PNG)
-![Accuracy plot](Accuracy.PNG)
+![Loss plot](loss.JPEG)
+![Accuracy plot](accuracy.JPEG)
 
 ---
 
@@ -199,6 +199,7 @@ The best model detects plant diseases with:
 ```bash
 git clone https://github.com/YOUR_USERNAME/AI-Plant-Disease-Detection-System.git
 cd AI-Plant-Disease-Detection-System
+
 
 
 
