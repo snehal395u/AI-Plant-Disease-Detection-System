@@ -49,11 +49,11 @@ This project helps farmers, researchers, and agricultural experts detect crop di
 
 ## 🎥 Project Demo
 
-![Project Demo](demo1.gif)
+![Project Demo](demo.gif)
 
 ## 🎥 Demo Preview
 
-👉 [Click here to watch full screen demo](https://screenrec.com/share/2vZYSJiayT)
+👉 [Click here to watch full screen demo](https://screenrec.com/share/vZUruQBYP4)
 
 
 ## 📊 Model Performance
@@ -199,5 +199,6 @@ The best model detects plant diseases with:
 ```bash
 git clone https://github.com/YOUR_USERNAME/AI-Plant-Disease-Detection-System.git
 cd AI-Plant-Disease-Detection-System
+
 
 
