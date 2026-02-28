@@ -31,13 +31,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=snehal395u.snehal395u&"  />
 </div>
 
-# 🌿 AI Plant Disease Detection System
-
-An intelligent deep learning-based system that detects plant diseases from leaf images using Convolutional Neural Networks built with TensorFlow & Keras.
-
-This project helps farmers, researchers, and agricultural experts detect crop diseases early and prevent yield loss.
-
----
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
@@ -46,6 +39,13 @@ This project helps farmers, researchers, and agricultural experts detect crop di
 ![Accuracy](https://img.shields.io/badge/Test%20Accuracy-88.7%25-brightgreen)
 ![F1 Score](https://img.shields.io/badge/F1%20Score-0.88-yellow)
 ![License](https://img.shields.io/badge/License-MIT-blue)
+
+# 🌿 AI Plant Disease Detection System
+
+An intelligent deep learning-based system that detects plant diseases from leaf images using Convolutional Neural Networks built with TensorFlow & Keras.
+
+This project helps farmers, researchers, and agricultural experts detect crop diseases early and prevent yield loss.
+
 
 ## 🎥 Project Demo
 
@@ -199,4 +199,5 @@ The best model detects plant diseases with:
 ```bash
 git clone https://github.com/YOUR_USERNAME/AI-Plant-Disease-Detection-System.git
 cd AI-Plant-Disease-Detection-System
+
 
